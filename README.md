@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ankita-Kodavoor
-- 👀 I’m interested in education, ed-tech and data science
+- 👀 I’m building at the intersection of cutting edge technology and social good.
 
