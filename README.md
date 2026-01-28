@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Ankita-Kodavoor
 - 👀 I’m building at the intersection of cutting edge technology and social good.
-
+- I lead Product for How We Feel
+- I enjoy tinkering with side projects like creating adaptive patient simulations for therapists like CARECoach, being used by the Stanford AI Lab and a few experimental voice products
